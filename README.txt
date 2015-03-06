@@ -1,0 +1,8 @@
+- Used Weighted tf-idf Model for Page ranking
+- Stored inverted index with document frequency
+
+How to compile: 
+- open command prompt
+- cd 201405605_Phase2
+- install.bat
+- run.bat path < inputfile

@@ -1,0 +1,1 @@
+java -cp bin engine.Main %1
